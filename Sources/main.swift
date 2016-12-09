@@ -7,7 +7,6 @@ class MyClass {
   func xyz() {
     print("In xyz()... \(myStr)")
   }
-
 }
 
 var counter = 0
